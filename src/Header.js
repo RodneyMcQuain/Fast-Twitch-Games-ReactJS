@@ -123,6 +123,8 @@ class Header extends Component {
 
     if (games.length > 0)
       this.props.setSelectedGame(games[0]);
+    else if (games.length === 0)
+      this.props.setSelectedGame("");
   }
 
   /*Sets the local storage after addition, removal, or moving up
