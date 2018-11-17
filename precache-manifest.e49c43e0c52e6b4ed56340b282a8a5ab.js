@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/Fast-Twitch-Games-ReactJS/static/media/fontawesome-webfont.674f50d2.eot"
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/Fast-Twitch-Games-ReactJS/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "0f6d7aec1d04cb8a9739",
+    "revision": "289ba492e25b4bdcfc1e",
     "url": "/Fast-Twitch-Games-ReactJS/static/css/main.a2f54b06.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/Fast-Twitch-Games-ReactJS/static/js/runtime~main.0ee25edc.js"
   },
   {
-    "revision": "0f6d7aec1d04cb8a9739",
-    "url": "/Fast-Twitch-Games-ReactJS/static/js/main.0f6d7aec.chunk.js"
+    "revision": "289ba492e25b4bdcfc1e",
+    "url": "/Fast-Twitch-Games-ReactJS/static/js/main.289ba492.chunk.js"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/Fast-Twitch-Games-ReactJS/static/media/fontawesome-webfont.af7ae505.woff2"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/Fast-Twitch-Games-ReactJS/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Fast-Twitch-Games-ReactJS/static/css/1.a2a32f65.chunk.css"
   },
   {
-    "revision": "834c1023b705ac922cd2c3c559cd59db",
+    "revision": "03b52de4bbe56d7ca3097188fb1a7e68",
     "url": "/Fast-Twitch-Games-ReactJS/index.html"
   }
 ];
